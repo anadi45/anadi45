@@ -64,3 +64,5 @@
 <a href="https://github.com/rajprem4214/github-readme-stats"><img alt="Ranjeet Baraik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi45&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
+<a href="https://activity-graph.herokuapp.com/graph?username=anadi45&hide_border=true&area=true&point=transparent&theme=react-dark"><img alt="Ranjeet Baraik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anadi45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
