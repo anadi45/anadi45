@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="400px" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/></a>
+
 <h1 align="center">Hi 👋, I'm Ranjeet from India</h1>
 <h3 align="center">I am a full-stack web developer with hands on experience in Image Processing with OpenCV. Recently I have cracked ZS Associates Campus Beats'22 in Tech Challenge.</h3>
 
@@ -51,7 +53,14 @@
     
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anadi45&show_icons=true&locale=en&count_private=true" alt="anadi45" />   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anadi45" alt="anadi45" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anadi45&show_icons=true&locale=en" alt="anadi45"/></p>    
+<p align="center">
+    <a href="https://github.com/anadi45/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ranjeet Baraik's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anadi45&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+<br/>
+<a href="https://github.com/anadi45/github-readme-stats"><img alt="Ranjeet Baraik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anadi45&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/rajprem4214/github-readme-stats"><img alt="Ranjeet Baraik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi45&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
 
