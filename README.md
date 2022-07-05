@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="400px" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/></a>
 
 <h1 align="center">Hi 👋, I'm Ranjeet from India</h1>
-<h3 align="center">I am a full-stack web developer with hands on experience in Image Processing with OpenCV. Recently I have cracked ZS Associates Campus Beats'22 in Tech Challenge.</h3>
+<h3 align="center">I am a full-stack web developer with hands on experience in Image Processing with OpenCV. Recently I have cracked ZS Associates Campus Beats'22 Tech Challenge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anadi45&label=Profile%20views&color=0e75b6&style=flat" alt="anadi45" /> </p>
 
