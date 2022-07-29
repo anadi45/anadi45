@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Image Steganography**
 
-- 👨‍💻 All of my projects are available at [My Personal Website](https://629b34595e71675dcca07c94--ranjeetbaraik.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://ranjeetbaraik.netlify.app/)
 
 - 📫 How to reach me **ranjeetbaraik15@gmail.com**
 
