@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anadi45&label=Profile%20views&color=0e75b6&style=flat" alt="anadi45" /> </p>
 
-- 🔭 I’m currently working on **Image Steganography**
+- 🔭 I’m currently working on **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://ranjeetbaraik.netlify.app/)
 
