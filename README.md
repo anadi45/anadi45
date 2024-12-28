@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="400px" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/></a>
+<!---<a href="#"><img width="100%" height="400px" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/></a>-->
 
 <h1 align="center">Hi 👋, I'm Ranjeet from India</h1>
 <h3 align="center">I am a software engineer working at Rattle.</h3>
@@ -32,9 +32,9 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
+<!---<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>-->
+<!---<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>-->
+<!---<a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>-->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
@@ -64,5 +64,9 @@
 <a href="https://github.com/rajprem4214/github-readme-stats"><img alt="Ranjeet Baraik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi45&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=anadi45&hide_border=true&area=true&point=transparent&theme=react-dark"><img alt="Ranjeet Baraik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anadi45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!---<a href="https://activity-graph.herokuapp.com/graph?username=anadi45&hide_border=true&area=true&point=transparent&theme=react-dark"><img alt="Ranjeet Baraik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anadi45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
+<h3 align="left">Open Source Contributions:</h3>
+<ol>
+    <li>https://github.com/langchain-ai/langchainjs/pull/7403</li>
+</ol>
