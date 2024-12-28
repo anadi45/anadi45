@@ -11,15 +11,10 @@
 
 - 📫 How to reach me **ranjeetbaraik15@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ranjeet-baraik-b803231a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranjeet-baraik-b803231a0/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16178288/anadi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anadi45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anadi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anadi45" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anadi45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anadi45" height="30" width="40" /></a>
-
-</p>
+<h3 align="left">Open Source Contributions:</h3>
+<ol>
+    <li>https://github.com/langchain-ai/langchainjs/pull/7403</li>
+</ol>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -66,7 +61,12 @@
 
 <!---<a href="https://activity-graph.herokuapp.com/graph?username=anadi45&hide_border=true&area=true&point=transparent&theme=react-dark"><img alt="Ranjeet Baraik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anadi45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
-<h3 align="left">Open Source Contributions:</h3>
-<ol>
-    <li>https://github.com/langchain-ai/langchainjs/pull/7403</li>
-</ol>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ranjeet-baraik-b803231a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranjeet-baraik-b803231a0/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16178288/anadi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anadi45" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anadi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anadi45" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anadi45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anadi45" height="30" width="40" /></a>
+
+</p>
