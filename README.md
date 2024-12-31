@@ -14,6 +14,7 @@
 <h3 align="left">Open Source Contributions:</h3>
 <ol>
     <li>https://github.com/langchain-ai/langchainjs/pull/7403</li>
+    <li>https://github.com/langchain-ai/langchainjs/pull/7438</li>
 </ol>
 
 <p align="center">
