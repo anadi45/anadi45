@@ -20,6 +20,7 @@
     <li>https://github.com/langchain-ai/langchainjs/pull/8081</li>
     <li>https://github.com/langchain-ai/langchainjs/pull/8159</li>
     <li>https://github.com/langchain-ai/langchainjs/pull/8256</li>
+    <li>https://github.com/langchain-ai/langchainjs/pull/8328</li>
 </ol>
 
 <p align="center">
