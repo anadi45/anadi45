@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anadi45&label=Profile%20views&color=0e75b6&style=flat" alt="anadi45" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer**
+- **Backend & Applied AI**
 
-- 👨‍💻 All of my projects are available at [My Personal Website](https://ranjeetbaraik.netlify.app/)
+- Opensource
 
-- 📫 How to reach me **ranjeetbaraik15@gmail.com**
+- 📫 Reach me @ **ranjeetbaraik15@gmail.com**
 
 <h3 align="left">Open Source Contributions:</h3>
 <ol>
