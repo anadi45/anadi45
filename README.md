@@ -1,7 +1,6 @@
 <!---<a href="#"><img width="100%" height="400px" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/></a>-->
 
 <h1 align="center">Hi 👋, I'm Ranjeet from India</h1>
-<h3 align="center">I am a software engineer working at Rattle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anadi45&label=Profile%20views&color=0e75b6&style=flat" alt="anadi45" /> </p>
 
@@ -43,6 +42,5 @@
 <a href="https://www.linkedin.com/in/ranjeet-baraik-b803231a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranjeet-baraik-b803231a0/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16178288/anadi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anadi45" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anadi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anadi45" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anadi45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anadi45" height="30" width="40" /></a>
 
 </p>
