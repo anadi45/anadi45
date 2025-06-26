@@ -21,6 +21,7 @@
     <li>https://github.com/langchain-ai/langchainjs/pull/8256</li>
     <li>https://github.com/langchain-ai/langchainjs/pull/8328</li>
     <li>https://github.com/openai/openai-node/pull/1554</li>
+    <li>https://github.com/openai/openai-node/pull/1557</li>
 </ol>
 
 <p align="center">
