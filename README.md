@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=000000&center=true&vCenter=true&width=435&lines=Backend+%26+Applied+AI+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Backend+%26+Applied+AI+%7C+Open+Source" alt="Typing SVG" />
 </div>
 
 ---
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### 🧠 LangChainJS Contributions
+### <a href="https://github.com/langchain-ai/langchainjs" target="_blank">LangChainJS</a> Contributions
 
 - [PR #7403 – fix(openai): include model_name in response_metadata](https://github.com/langchain-ai/langchainjs/pull/7403)
 - [PR #7438 – feat(community): add mmr search to pgvector](https://github.com/langchain-ai/langchainjs/pull/7438)
@@ -38,7 +38,7 @@
 
 ---
 
-### 🤖 OpenAI Node Contributions
+### <a href="https://github.com/openai/openai-node" target="_blank">OpenAI Node</a> Contributions
 
 - [PR #1554 – fix(embedding): response type for base64 encoding format](https://github.com/openai/openai-node/pull/1554)
 - [PR #1557 – fix: add priority service tier to chat completion api](https://github.com/openai/openai-node/pull/1557)
