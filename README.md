@@ -23,6 +23,7 @@
     <li>https://github.com/openai/openai-node/pull/1554</li>
     <li>https://github.com/openai/openai-node/pull/1557</li>
     <li>https://github.com/langchain-ai/langchainjs/pull/8444</li>
+    <li>https://github.com/openai/openai-node/pull/1591</li>
 </ol>
 
 <p align="center">
