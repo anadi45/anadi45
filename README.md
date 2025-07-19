@@ -1,43 +1,63 @@
-<!---<a href="#"><img width="100%" height="400px" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg"/></a>-->
-
 <h1 align="center">Hi 👋, I'm Ranjeet from India</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anadi45&label=Profile%20views&color=0e75b6&style=flat" alt="anadi45" /> </p>
-
-- **Backend & Applied AI**
-
-- Opensource
-
-- 📫 Reach me @ **ranjeetbaraik15@gmail.com**
-
-<h3 align="left">Open Source Contributions:</h3>
-<ol>
-    <li>https://github.com/langchain-ai/langchainjs/pull/7403</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/7438</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/7817</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/7999</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/8081</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/8159</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/8256</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/8328</li>
-    <li>https://github.com/openai/openai-node/pull/1554</li>
-    <li>https://github.com/openai/openai-node/pull/1557</li>
-    <li>https://github.com/langchain-ai/langchainjs/pull/8444</li>
-    <li>https://github.com/openai/openai-node/pull/1591</li>
-</ol>
-
-<p align="center">
-    <a href="https://github.com/anadi45/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ranjeet Baraik's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anadi45&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p align = "center">
+    📬 <a href="mailto:ranjeetbaraik15@gmail.com">ranjeetbaraik15@gmail.com</a>
 </p>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=anadi45&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p
 
-<br/>
-<a href="https://github.com/anadi45/github-readme-stats"><img alt="Ranjeet Baraik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anadi45&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/rajprem4214/github-readme-stats"><img alt="Ranjeet Baraik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadi45&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
+<div align="center">
+    <strong>Backend & Applied AI</strong>
+    <br/>
+    <strong>Opensource</strong>
+</div>
 
-<!---<a href="https://activity-graph.herokuapp.com/graph?username=anadi45&hide_border=true&area=true&point=transparent&theme=react-dark"><img alt="Ranjeet Baraik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anadi45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+<div align="center">
+
+### 🔗 LangChainJS Contributions
+
+- [PR #7403 – fix(openai): include model_name in response_metadata](https://github.com/langchain-ai/langchainjs/pull/7403)
+- [PR #7438 – feat(community): add mmr search to pgvector](https://github.com/langchain-ai/langchainjs/pull/7438)
+- [PR #7817 – feat(community): Perplexity integration](https://github.com/langchain-ai/langchainjs/pull/7817)
+- [PR #7999 – fix(community): perplexity add search domain & recency filter](https://github.com/langchain-ai/langchainjs/pull/7999)
+- [PR #8081 – feat(tavily): use chunks per source arg](https://github.com/langchain-ai/langchainjs/pull/8081)
+- [PR #8159 – fix(langchain): vertex ai model name pulled from hub](https://github.com/langchain-ai/langchainjs/pull/8159)
+- [PR #8256 – feat(openai): encoding_format support for embeddings](https://github.com/langchain-ai/langchainjs/pull/8256)
+- [PR #8328 – feat(community): perplexity add web search options](https://github.com/langchain-ai/langchainjs/pull/8328)
+- [PR #8444 – feat(community): Groq multimodal support](https://github.com/langchain-ai/langchainjs/pull/8444)
+
+### 🤖 OpenAI Node Contributions
+
+- [PR #1554 – fix(embedding): response type for base64 encoding format](https://github.com/openai/openai-node/pull/1554)
+- [PR #1557 – fix: add priority service tier to chat completion api](https://github.com/openai/openai-node/pull/1557)
+- [PR #1591 – feat(responses): support max_tool_calls](https://github.com/openai/openai-node/pull/1591)
+
+</div>
+
+
+<!--- stats (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anadi45&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anadi45&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anadi45&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
