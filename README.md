@@ -15,10 +15,12 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Backend+%26+Applied+AI+Engineer;Open+Source+Contributor;Typescript+%7C+Node.js+%7C+NestJS;LangChain+%7C+OpenAI+%7C+Vector+DBs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=000000&center=true&vCenter=true&width=435&lines=Backend+%26+Applied+AI+%7C+Open+Source" alt="Typing SVG" />
 </div>
 
 ---
+
+<h2 align="center">🚀 Open Source Contributions</h2>
 
 <div align="center">
 
