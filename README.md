@@ -35,6 +35,7 @@
 - [PR #8256 – feat(openai): encoding_format support for embeddings](https://github.com/langchain-ai/langchainjs/pull/8256)
 - [PR #8328 – feat(community): perplexity add web search options](https://github.com/langchain-ai/langchainjs/pull/8328)
 - [PR #8444 – feat(community): Groq multimodal support](https://github.com/langchain-ai/langchainjs/pull/8444)
+- [PR #8981 - feat(community): add new filters and search options for ChatPerplexity](https://github.com/langchain-ai/langchainjs/pull/8981)
 
 ---
 
