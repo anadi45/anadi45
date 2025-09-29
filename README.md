@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=anadi45&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
+[![An image of @anadi45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anadi45)](https://holopin.io/@anadi45)
+
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
