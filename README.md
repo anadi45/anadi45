@@ -47,9 +47,16 @@
 - [PR #1557 – fix: add priority service tier to chat completion api](https://github.com/openai/openai-node/pull/1557)
 - [PR #1591 – feat(responses): support max_tool_calls](https://github.com/openai/openai-node/pull/1591)
 
+---
+
+### <a href="https://github.com/digitalocean" target="_blank">Digital Ocean</a> Contributions
+
+- [PR #14 – feat: knowledge base indexing poller](https://github.com/digitalocean/gradient-typescript/pull/14)
+
 </div>
 
 ---
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
