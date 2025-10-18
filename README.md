@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ranjeet from India</h1>
+<h1 align="center">Hey👋, I'm Ranjeet from India</h1>
 
 <p align="center">
   📬 <a href="mailto:ranjeetbaraik15@gmail.com">ranjeetbaraik15@gmail.com</a>
