@@ -49,7 +49,7 @@
 
 ---
 
-### <a href="https://github.com/digitalocean" target="_blank">Digital Ocean</a> Contributions
+### Hacktoberfest 2025 Contributions
 
 - [PR #14 – feat: knowledge base indexing poller](https://github.com/digitalocean/gradient-typescript/pull/14)
 
