@@ -52,6 +52,7 @@
 ### Hacktoberfest 2025 Contributions
 
 - [PR #14 – feat: knowledge base indexing poller](https://github.com/digitalocean/gradient-typescript/pull/14)
+- [PR #15284 – fix: duplicate merge button bug](https://github.com/twentyhq/twenty/pull/15284)
 
 </div>
 
