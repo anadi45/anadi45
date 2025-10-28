@@ -53,7 +53,8 @@
 
 - [PR #14 – feat: knowledge base indexing poller](https://github.com/digitalocean/gradient-typescript/pull/14)
 - [PR #15284 – fix: duplicate merge button bug](https://github.com/twentyhq/twenty/pull/15284)
-- [PR #15375 – [DOCKER_COMPOSE] server depends on redis ](https://github.com/twentyhq/twenty/pull/15375)
+- [PR #15375 – [DOCKER_COMPOSE] server depends on redis](https://github.com/twentyhq/twenty/pull/15375)
+- [PR #15366 – fix: login redirection to active objects](https://github.com/twentyhq/twenty/pull/15366)
 
 </div>
 
