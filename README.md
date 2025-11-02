@@ -57,6 +57,7 @@
 - [PR #15366 – fix: login redirection to active objects](https://github.com/twentyhq/twenty/pull/15366)
 - [PR #15421 – fix: password reset redirection](https://github.com/twentyhq/twenty/pull/15421)
 - [PR #15489 – fix: composite field label retrieval in spreadsheet import utility](https://github.com/twentyhq/twenty/pull/15489)
+- [PR #15455 – fix: ai settings page crash](https://github.com/twentyhq/twenty/pull/15455)
 
 </div>
 
